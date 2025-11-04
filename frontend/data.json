@@ -1,0 +1,32 @@
+{
+    "1.webp": {
+        "url": "https://www.zalando.at/columbia-powderkeg-ii-remastered-interchange-2-in-1-winterjacke-black-c2322t03m-q12.html",
+        "price": 100,
+        "name": "Columbia Powderkeg II Remastered Interchange 2 in 1 Winterjacke Black"
+    },
+    "2.webp": {
+        "url": "https://www.zalando.at/tommy-hilfiger-flex-solid-shirt-hemd-army-green-to122d1ro-n11.html",
+        "price": 31,
+        "name": "Tommy Hilfiger Flex Solid Shirt Hemd Army Green"
+    },
+    "3.webp": {
+        "url": "https://www.zalando.at/danish-endurance-langarmshirt-darkblue-dax42d006-k11.html",
+        "price": 30,
+        "name": "Danish Endurance Langarmshirt Darkblue"
+    },
+    "4.webp": {
+        "url": "https://www.zalando.at/armedangels-daako-strickpullover-night-sky-tweed-frozen-lavender-ar322q06b-i11.html",
+        "price": 29,
+        "name": "Armed Angels Daako Strickpullover Night Sky Tweed Frozen Lavender"
+    },
+    "5.webp": {
+        "url": "https://www.zalando.at/pme-legend-strickpullover-bone-white-pg322q04k-b11.html",
+        "price": 28,
+        "name": "PME Legend Strickpullover Bone White"
+    },
+    "6.webp": {
+        "url": "https://www.zalando.at/pme-legend-strickpullover-bone-white-melee-pg322q04r-a11.html",
+        "price": 27,
+        "name": "Strickpullover - bone white melee"
+    }
+}
